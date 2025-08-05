@@ -1,0 +1,8 @@
+import numpy as np
+#numpy es una libreria para trabajar con arreglos, matrices y vectores
+#primer ejemplo de uso de numpy con vectores
+
+#creamos un vector de 10 elementos
+vector=np.array([1,2,3,4,5,6,7,8,9,10])
+#Imprimir el vector
+print("vector original: ", vector)
